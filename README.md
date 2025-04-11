@@ -54,13 +54,12 @@ The output will be in the `dist/` folder.
 This project is deployed on [Vercel](https://vercel.com/).  
 Root directory for deployment: `hardware-project`
 
-## 📸 Screenshots
-
-![Screenshot](https://tailwind-vite-app.vercel.app/assets/logo.jpg)
-
 ## 🧑‍💻 Author
 
 - Github: [Ha-Hien](https://github.com/Ha-Hien)
+
+## 🧑‍💻 Reference
+- Courser: [Udemy](https://www.udemy.com/course/complete-tailwind-css-course-from-scratch-with-real-project/)
 
 ---
 
