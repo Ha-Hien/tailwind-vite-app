@@ -56,7 +56,7 @@ Root directory for deployment: `hardware-project`
 
 ## 🧑‍💻 Author
 
-- Github: [Ha-Hien](https://github.com/Ha-Hien)
+- Github: [Ha-Hien](https://github.com/Ha-Hien) -[Ha-Thi-Thu-Hien](https://github.com/HaThiThuHien)
 
 ## 🧑‍💻 Reference
 - Courser: [Udemy](https://www.udemy.com/course/complete-tailwind-css-course-from-scratch-with-real-project/)
